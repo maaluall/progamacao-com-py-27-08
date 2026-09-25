@@ -1,2 +1,6 @@
-# progamacao-com-py-27-08
-Repositório para registrar a atividade da disciplina de Programação com py
+# programação com Python
+## Sobre um projeto
+**Python**
+*Italico*
+- lista
+- lista
