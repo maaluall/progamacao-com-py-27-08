@@ -20,12 +20,12 @@ Aqui estão organizadas as aulas e conteúdos práticos desenvolvidos no reposit
 | `Aula 17 REGEX ALFANUM` | Aplicação prática de Regex com foco em caracteres alfanuméricos. |
 | `Aula 18 ESTRUTURAS DE DADOS COMPOSTAS` | Estudo inicial de estruturas compostas em Python (listas, tuplas, dicionários). |
 | `Aula 19 ESTRUTURAS DE DADOS COMPOSTAS...` | Aprofundamento e manipulação avançada de estruturas de dados. |
-| `Aula 20` | Introdução e conceitos sobre a estrutura de dados de Dicionário em Python. |
-| `Aula 21` | Coonceitos fundamentais sobre a criação e utilização das Funções. |
-| `Aula 22` | Continuidade do estudo de Funções com tópicos e práticas avançadas. |
-| `Aula 23` | Desenvolvimento prático integrando Funções com estruturas de Dicion´srios combinados com Listas. |
-| `Aula 24` | Manipulação e organização de Dicionários combinados com LIstas. |
-| `Aula 25` | |Estudos e entendimento do comportaamento do Escopo de Variáveis. |
+| `Aula 20 DICIONÁRIO` | Introdução e conceitos sobre a estrutura de dados de Dicionário em Python. |
+| `Aula 21 FUNÇÂO` | Coonceitos fundamentais sobre a criação e utilização das Funções. |
+| `Aula 22 FUNÇÃO 2` | Continuidade do estudo de Funções com tópicos e práticas avançadas. |
+| `Aula 23 FUNÇÃO COM DICIONÁRIO` | Desenvolvimento prático integrando Funções com estruturas de Dicion´srios combinados com Listas. |
+| `Aula 24 FUNÇÃO COM LISTA` | Manipulação e organização de Dicionários combinados com LIstas. |
+| `Aula 25 ESCOPO DE VARIÁVEL` | |Estudos e entendimento do comportaamento do Escopo de Variáveis. |
 
 
 ## 🛠️ Tecnologias Utilizadas
