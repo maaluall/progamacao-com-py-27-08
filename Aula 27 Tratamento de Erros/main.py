@@ -9,7 +9,7 @@ assert 2 < 1, "2 tem que ser maior do que 1"
 print("Fim")
 '''
 
-
+'''
 try:
     idade = int(input("Digite sua idade: "))
     print("Sua idade é", idade)
@@ -24,9 +24,16 @@ except ValueError:
     print("Digite um número inteiro!!")
 except ZeroDivisionError:
     print("Não existe divisão por zero")
+'''    
     
-    
-    
+try:
+    numero = int(input("Digite um número:"))
+except ValueError:
+    print("Valor inválido!")
+else: # Só é executado quando o except é ignorado
+    print("Número correto!")
+finally: # É executado sempre, independente do valor digitado
+    print("Programa finalizado!!!")
     
     
     
